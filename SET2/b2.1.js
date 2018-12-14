@@ -1,0 +1,11 @@
+var i = 10;
+var f = 12.5;
+var b = true;
+var s = "luan";
+document.wirte("i = " + i );
+document.wirte("br/r" );
+document.wirte("f = " + f );
+document.wirte("br/r" );
+document.wirte("b = " + b );
+document.wirte("br/r" );
+document.wirte("s = " + s );
