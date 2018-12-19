@@ -1,0 +1,20 @@
+
+#khung{
+    width: 300px;
+    margin:auto;
+    margin-top: 15%;
+}
+.num{
+    width: 30px;
+    height:30px;
+    margin-right: 10px;
+    margin-top: 10px;
+
+}
+#ketqua{
+    width: 160px;
+    height: 30px;
+    text-align:right;
+}
+
+
